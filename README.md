@@ -3,12 +3,9 @@
 
 I am Adedamola👩‍💻💜
 
-
+- 💻 I'm into Frontend Development
 - 🌱 I’m currently learning DevOps
-<-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
+- 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: adedamola.adenuga04@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Movie freak
