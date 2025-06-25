@@ -8,5 +8,5 @@ I am Adedamola👩‍💻💜
 - 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: adedamola.adenuga04@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Movie freak
+- ⚡ Fun fact: Movie freak, love crocheting
 
