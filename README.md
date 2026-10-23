@@ -20,6 +20,7 @@ I'm a recent **Systems Engineering graduate of the University of Lagos**. I star
 - 🌍 Erasmus+ exchange alumna (Industrial Engineering, Istanbul)
 - 💬 Ask me about: controls, embedded systems, or machine learning
 
+<!--
 ---
 
 ## 🔬 Research interests
@@ -30,11 +31,13 @@ I'm a recent **Systems Engineering graduate of the University of Lagos**. I star
 - 📐 Mathematical modelling and simulation
 - ⚡ AI-enabled control systems
 
+-->
+
 ---
 
 ## 🛠️ Skills
 
-**Languages & tools**
+**Languages & Tools**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
@@ -43,7 +46,7 @@ I'm a recent **Systems Engineering graduate of the University of Lagos**. I star
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 
-**Embedded, robotics & design**
+**Embedded, Robotics & Design**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white)
